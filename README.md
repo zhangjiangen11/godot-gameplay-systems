@@ -14,7 +14,7 @@
 ⚔️ GGS ⚔️
 =======
 
-Godot Gameplay Systems (formerly godot gameplay attributes) is a set of nodes and resources which speed up development your gameplay systems.
+Godot Gameplay Systems is a set of nodes and resources which speed up development your gameplay systems.
 
 - [⚔️ GGS ⚔️](#️-ggs-️)
 - [Install](#install)
