@@ -1,6 +1,14 @@
 > [!WARNING] 
 > A full rewrite is going on (using gdextension). Some old api will change and be aware that all hard references (like extends `res://`) in your custom classes will stop working with the approach of 1.0.0
 
+> [!WARNING]
+> If you are planning to develop a new game with this addon using the ability system, consider using the GDExtension instead <br>
+> [The ability system](https://github.com/OctoD/godot-gameplay-abilities)
+
+> [!WARNING]
+> If you are planning to develop a new game with this addon using the attributes system, consider using the GDExtension instead <br>
+> [The attribute system](https://github.com/OctoD/godot_gameplay_attributes)
+
 [discord server here](https://discord.gg/meA6pDTXpr)
 
 ⚔️ GGS ⚔️
